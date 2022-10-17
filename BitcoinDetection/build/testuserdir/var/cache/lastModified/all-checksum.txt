@@ -1,0 +1,12 @@
+autopsy-4.19.2/platform=1636024406000
+cluster.nbproject/BitcoinDetection/build/cluster=1665301797832
+cluster.autopsy-4.19.2/autopsy=1636024714000
+cluster.autopsy-4.19.2/harness=1636024402000
+cluster.autopsy-4.19.2/platform=1636024406000
+cluster.autopsy-4.19.2/java=1636024402000
+user=1665301797832
+crc=7
+locale=en_GB
+branding=null
+java.version=11.0.14
+java.vm.version=11.0.14+9-post-Debian-1deb11u1

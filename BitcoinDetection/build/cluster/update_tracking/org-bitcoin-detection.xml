@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.bitcoin.detection">
+    <module_version install_time="1665995785401" last="true" origin="installer" specification_version="1.0">
+        <file crc="1838794006" name="config/Modules/org-bitcoin-detection.xml"/>
+        <file crc="2120244963" name="modules/ext/sqlite-jdbc-3.39.3.0.jar"/>
+        <file crc="1595290568" name="modules/org-bitcoin-detection.jar"/>
+    </module_version>
+</module>
